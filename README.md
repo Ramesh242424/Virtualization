@@ -1,6 +1,5 @@
 # Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-### NAME: S.L.NARASIMHA REDDY
-### REG NO:212223040214
+
 
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
